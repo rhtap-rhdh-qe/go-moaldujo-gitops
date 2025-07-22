@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/go-moaldujo:1be987a94bcdedec9c513751c1bbcc08749c47b9@sha256:82c82ca9985de79754d750681f058a48d86b4bbbf927032400c93a5d381dd2e6
+        - image: quay.io/rhtap_qe/go-moaldujo:96d5b84f411c38a47c0e52d674c04bdfa926a5fc@sha256:22d90423d7ed9ff336d75d326979d187af9357cbaa3129f336cc0c8377fa0d83
           name: container-image
